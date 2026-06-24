@@ -1,0 +1,18 @@
+# Java / Maven
+backend/target/
+backend/data/
+backend/uploads/
+
+# Node / Vite
+frontend/node_modules/
+frontend/dist/
+
+# Local runtime logs
+*.log
+
+# IDE / OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
